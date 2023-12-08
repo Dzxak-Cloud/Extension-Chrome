@@ -1,6 +1,6 @@
 # Cara Men-Upload Ke github
 
-git init
+git init <br />
   git add *
   git commit -m "first commit"
   git branch -M (branch yg kita mau)
